@@ -1,0 +1,42 @@
+h1{
+    display: inline-block;
+    margin-left: 200px;
+    background-color: rgb(38, 148, 38);
+    padding: 16px;
+    border-radius:10px;
+}
+
+h2{
+    padding-left: 200px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 40%;
+    margin: 30px 45px 13px 378px;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even) {
+    background-color: #b6b9ba;
+}
+
+p{
+    background-color: red;
+    padding: 22px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+form{
+    display: inline-block;
+    width: 400px;
+    margin-left: 500px;
+    margin-top: 150px;
+    font-size: 22px;
+}
